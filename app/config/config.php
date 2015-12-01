@@ -4,9 +4,9 @@ return new \Phalcon\Config(array(
     'database' => array(
         'adapter'     => 'Mysql',
         'host'        => 'localhost',
-        'username'    => 'root',
-        'password'    => '',
-        'dbname'      => 'test',
+        'username'    => 'cgl_proto',
+        'password'    => 'cgl_proto',
+        'dbname'      => 'cgl_proto',
         'charset'     => 'utf8',
     ),
     'application' => array(
